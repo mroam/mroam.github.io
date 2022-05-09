@@ -1,9 +1,9 @@
 # mroam.github.io 
-(changed before 2022: use io instead of com, https instead of http for personal sites)
+(changed for 2022: use io instead of com, use https instead of http)
 
 # user personal page
 
-Experimenting with hosting simple web page on github:  https://mroam.github.io
+Experimenting with hosting simple web page on github:  https://mroam.github.io and https://mroam.github.io/weblinks (the weblinks is better.)
 
 (Old link was http :// mroam. github. com /index.html)
 

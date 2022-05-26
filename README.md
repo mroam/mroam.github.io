@@ -1,5 +1,5 @@
 # mroam.github.io 
-(changed for 2022: use io instead of com, use https instead of http)
+(changed for 2022: use io instead of com, use https instead of http, default branch is "main")
 
 # user personal page
 
